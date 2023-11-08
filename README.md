@@ -4,7 +4,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=mijaleta&theme=algolia&hide_border=true&border_radius=15.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijaleta&layout=compact&theme=vision-friendly-dark&card_)](https://github.com/anuraghazra/github-readme-stats)
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/miretu-jaleta-995b22231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

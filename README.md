@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=mijaleta&theme=algolia&hide_border=true&border_radius=15.6)](https://git.io/streak-stats)
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.

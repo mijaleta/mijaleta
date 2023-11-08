@@ -3,7 +3,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mijaleta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miretu-jaleta-995b22231/)
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=mijaleta&theme=algolia&hide_border=true&border_radius=15.6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijaleta&layout=compact&theme=vision-friendly-dark&card_width=600 )](https://github.com/anuraghazra/github-readme-stats)
 <div id="badges">
   <a href="https://www.linkedin.com/in/miretu-jaleta-995b22231/">

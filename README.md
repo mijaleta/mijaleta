@@ -5,13 +5,6 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mijaleta&show_icons=true&theme=radical&display: "inline")
 ![GitHub Streak](https://streak-stats.demolab.com?user=mijaleta&theme=algolia&hide_border=true&border_radius=15.6&date_format=j%20M%5B%20Y%5D ) 
 
-
-
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijaleta&layout=compact&theme=algolia&hide_border=true&border_radius=15.6& )
-
-
-
 <div align="center">
 </div>
 <div id="badges" align="center"  >
@@ -45,8 +38,9 @@
 
 
 
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijaleta&layout=compact&theme=algolia&hide_border=true&border_radius=15.6& )
 <div align="center">
+  
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 

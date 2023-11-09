@@ -1,8 +1,11 @@
 ### :woman_technologist: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Software Engineer contributing to both frontend and backend for building web applications.
 ### :fire: Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mijaleta&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=mijaleta&theme=algolia&hide_border=true&border_radius=15.6&date_format=j%20M%5B%20Y%5D) 
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mijaleta&show_icons=true&theme=radical&display: "inline")
+![GitHub Streak](https://streak-stats.demolab.com?user=mijaleta&theme=algolia&hide_border=true&border_radius=15.6&date_format=j%20M%5B%20Y%5D ) 
+
+
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijaleta&layout=compact&theme=algolia&hide_border=true&border_radius=15.6& )

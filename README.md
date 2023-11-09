@@ -1,8 +1,19 @@
 ### :woman_technologist: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Software Engineer contributing to both frontend and backend for building web applications.
 ### :fire: Stats :
-![GitHub Streak](https://streak-stats.demolab.com?user=mijaleta&theme=algolia&hide_border=true&border_radius=15.6&date_format=j%20M%5B%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijaleta&layout=compact&theme=algolia&hide_border=true&border_radius=15.6)
+![GitHub Streak](https://streak-stats.demolab.com?user=mijaleta&theme=algolia&hide_border=true&border_radius=15.6&date_format=j%20M%5B%20Y%5D) 
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijaleta&show_icons=true&theme=radical)
+
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijaleta&layout=compact&theme=algolia&hide_border=true&border_radius=15.6& )
+
+
+
+<div align="center">
+</div>
 <div id="badges" align="center"  >
   <a href="https://www.linkedin.com/in/miretu-jaleta-995b22231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,6 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 
 
 

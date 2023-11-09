@@ -21,11 +21,15 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-
-  
+ <br/>
+  <br/>
+  <br/>
+ 
 <div align="center">
   :hammer_and_wrench: Languages and Tools :
+  <br/>
+  <br/>
+  <br/>
 <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -43,7 +47,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijaleta&layout=compact&theme=algolia&hide_border=true&border_radius=15.6& )
 </div>
-
 
 
 

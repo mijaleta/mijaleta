@@ -44,6 +44,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mijaleta&layout=compact&theme=algolia&hide_border=true&border_radius=15.6& )
 </div>
 
-
-
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
+<hr/>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,nodejs,mongodb,react,materialui,git,xd,figma&theme=light" />
+  </a>
+</p>

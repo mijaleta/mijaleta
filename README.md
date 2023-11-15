@@ -6,9 +6,12 @@
 ### :fire: Stats :
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mijaleta&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 40%; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mijaleta&show_icons=true&theme=radical&border_radius=15.6" alt="GitHub Stats" style="width: 40%; height: 200px;">
   <img src="https://streak-stats.demolab.com?user=mijaleta&theme=algolia&hide_border=true&border_radius=15.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 40%; height: 200px;">
 </div>
+
+
+
 <hr/>
 <div id="badges" align="center"  >
   <a href="https://www.linkedin.com/in/miretu-jaleta-995b22231/">

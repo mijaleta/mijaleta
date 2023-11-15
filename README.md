@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/miretu-jaleta-995b22231/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://facebook.com/miretu-jaleta" target="_blank" rel="noopener noreferrer">
+  <a href="https://facebook.com/miretu.jaleta" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/FaceBook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://twitter.com/mijaletac" target="_blank" rel="noopener noreferrer">

@@ -1,5 +1,6 @@
 ### :woman_technologist: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: Software Engineer contributing to both frontend and backend for building web applications.
+- :telescope: Software Engineer & Computer Vision Engineer!
+
 <hr/>
 :fire: Stats :
 <div style="display: flex; flex-direction: row;">

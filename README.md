@@ -44,6 +44,6 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,py,nodejs,mongodb,react,materialui,git,xd,laravel,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,py,nodejs,mongodb,react,materialui,git,xd,laravel, bootstrap,tailwind,figma&theme=light" />
   </a>
 </p>
